@@ -1,5 +1,5 @@
 # c2others
-Calling C function complied in dll, from other programming languages
+Calling C functions (compiled in dll) from other programming languages
 
 # A. Successful so far:
 1. Python using ctypes package
